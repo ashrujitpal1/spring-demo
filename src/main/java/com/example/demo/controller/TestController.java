@@ -8,6 +8,6 @@ public class TestController {
 
 @GetMapping("/health")
 public String health() {
-  return "Hello & Welcome to CodeDeply in ASG, being encouraged by Tisya !!!";
+  return "Hello & Welcome to CodeDeply in ASG !!!";
 }
 }
